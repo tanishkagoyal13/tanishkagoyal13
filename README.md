@@ -13,8 +13,6 @@
 
 ## 📌 Projects
 - 🛒 [Kidzeeee Shopping App] – Java Swing + JDBC  
-- 🌐 [Portfolio Website] – HTML, CSS, JavaScript  
-- 📊 [DBMS Mini Project] – SQL + Java  
 
 ---
 
