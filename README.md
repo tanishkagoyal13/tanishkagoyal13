@@ -6,22 +6,22 @@
 
 ---
 
-<img align="right" width="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-
-### Hey there! I'm Tanishka 👋
-
-🎓 Final-year **B.Tech CSE** student at Mody University *(CGPA: 8.35)*
-🤖 I build things at the intersection of **ML, Computer Vision & Backend**
-☁️ Deployed end-to-end ML pipelines on **IBM Cloud**
-🌪️ My CNN classifies disasters from satellite imagery — **91% accuracy**
-📍 Sikar / Jaipur, Rajasthan | Open to SWE / AI-ML internships
-
-> *"I don't just train models. I build systems that scale."*
-
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanishkagoyal1302@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishka-goyal-1302t/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/tanishkagoyal13/)
 [![Profile Views](https://komarev.com/ghpvc/?username=tanishkagoyal13&style=flat-square&color=c2185b&label=Profile+Views)](https://github.com/tanishkagoyal13)
+
+---
+
+## </> About Me
+
+- 🎓 Final-year **Computer Science** undergrad at Mody University of Science & Technology *(CGPA: 8.35)*
+- 🤖 Building at the intersection of **Machine Learning, Computer Vision & Backend Development**
+- ☁️ Deployed end-to-end **ML pipelines on IBM Cloud** during my internship at IBM
+- 🌪️ Trained a CNN on **6,000+ satellite images** to classify disaster damage — **91% accuracy**
+- 🌱 Currently exploring **LLMs, RAG pipelines & full-stack development**
+- 💡 Strong foundations in **DSA & OOP**, actively solving on LeetCode
+- 📍 Sikar / Jaipur, Rajasthan | Open to **SWE / AI-ML internships & full-time roles**
 
 ---
 
