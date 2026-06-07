@@ -12,109 +12,81 @@
 
 🎓 Final-year **B.Tech CSE** student at Mody University *(CGPA: 8.35)*
 🤖 I build things at the intersection of **ML, Computer Vision & Backend**
-☁️ Deployed production ML pipelines on **IBM Cloud**
-🌪️ My CNN sees disasters — literally *(6,000+ satellite images, 82% accuracy)*
-📍 Sikar / Jaipur, Rajasthan
+☁️ Deployed end-to-end ML pipelines on **IBM Cloud**
+🌪️ My CNN classifies disasters from satellite imagery — **91% accuracy**
+📍 Sikar / Jaipur, Rajasthan | Open to SWE / AI-ML internships
 
 > *"I don't just train models. I build systems that scale."*
 
----
-
-## 🪐 What I'm About
-
-<table>
-<tr>
-<td width="50%">
-
-**Right now I'm...**
-- 🔭 Finishing **SAFESIGHT** — disaster classification CNN
-- 🌱 Going deeper into **FastAPI + backend architecture**
-- 💡 Exploring **LLMs & RAG pipelines**
-- 🧩 Grinding **DSA** on LeetCode
-
-</td>
-<td width="50%">
-
-**I geek out over...**
-- 🧠 Machine Learning & Computer Vision
-- 🏗️ Building clean, scalable APIs
-- 📊 Making data actually tell a story
-- 🖼️ Teaching computers to *see*
-
-</td>
-</tr>
-</table>
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanishkagoyal1302@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishka-goyal-1302t/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/tanishkagoyal13/)
+[![Profile Views](https://komarev.com/ghpvc/?username=tanishkagoyal13&style=flat-square&color=c2185b&label=Profile+Views)](https://github.com/tanishkagoyal13)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 **Languages**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**ML / AI**
+**Backend & Frontend**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![IBM Watson](https://img.shields.io/badge/IBM_Watson-1261FE?style=flat-square&logo=ibmwatson&logoColor=white)
-
-**Backend & Tools**
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Databases**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white)
-
-</div>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🌪️ SAFESIGHT — Disaster Damage Classification
-`Python` `TensorFlow` `OpenCV` `CNN`
+- 🌪️ **SAFESIGHT — Disaster Damage Classification System**
 
-> A CNN that looks at satellite & drone imagery and tells you what kind of disaster it is.
+  CNN trained on **6,000+ satellite & drone images** to classify **6 disaster types** — **91% test accuracy**. Built with 12+ augmentation techniques, stratified splitting, class-weight balancing, and optimized training via EarlyStopping & LR scheduling.
 
-- 📸 Trained on **6,000+ images** across **6 disaster categories**
-- 🎯 **82% test accuracy** with 12+ augmentation & preprocessing techniques
-- ⚙️ EarlyStopping, LR scheduling, class-weight balancing — fully production-optimized
+  `Python` `TensorFlow` `OpenCV` `CNN`
 
----
+- 💸 **Salary Prediction Model**
 
-### 💸 Salary Prediction Model
-`IBM Watson Studio` `AutoAI` `Python`
+  End-to-end AutoAI pipeline in IBM Watson Studio — **89% accuracy** on test data. Covered full ML lifecycle: preprocessing, feature selection, AUC/F1 evaluation, and IBM Cloud deployment.
 
-> An end-to-end AutoAI pipeline built inside IBM Watson Studio, deployed on the cloud.
+  `Python` `IBM Watson Studio` `AutoAI` `scikit-learn`
 
-- 📊 **82% accuracy** on test data with rigorous feature selection & evaluation (AUC, F1)
-- ☁️ Fully deployed in the **IBM Cloud** environment
+- 🛒 **Kidzee Shopping Application**
 
----
+  Full-featured desktop shopping app with Java Swing UI and MySQL + JDBC backend for product and customer data management.
 
-### 🛒 Kidzee Shopping Application
-`Java` `Java Swing` `MySQL` `JDBC`
-
-> A full-featured desktop shopping app — think e-commerce, but built from scratch in Java.
-
-- 🖥️ Built with **Java Swing** for a clean, navigable UI
-- 🗄️ MySQL + JDBC for product management and customer data handling
-
----
-
-> 📌 *More projects are on their way — this section is actively growing!*
+  `Java` `Java Swing` `MySQL` `JDBC`
 
 ---
 
@@ -122,21 +94,7 @@
 
 **IBM (PBEL) — AI/ML Virtual Internship** ・ *June 2025 – July 2025*
 
-Built and optimized an AutoAI pipeline in IBM Watson Studio — 82% improvement in prediction accuracy. Handled the complete ML workflow: data preprocessing, model evaluation (AUC, F1-score), and cloud deployment.
-
----
-
-## 🏅 Beyond the Code
-
-```
-🎯  Sub-Coordinator    →  Droid 7.0 Tech Fest  |  300+ participants
-🎭  Sub-Media Head     →  BIS - The Drama Club  |  leading media & outreach
-💻  Executive Member   →  CSI Laxmangarh Chapter (Utkarsh)
-📰  Executive Member   →  English Enginium - Annual Magazine, Mody University
-🌐  Participant        →  Web Dev Derby, DROID 6.0
-📜  Certified          →  C Programming · Infosys Springboard
-🐍  Certified          →  Python · GUVI (Futureskills Prime)
-```
+> Built and optimized an AutoAI pipeline achieving **82% improvement** in prediction accuracy. Handled end-to-end ML workflow — preprocessing, model evaluation (AUC, F1), and deployment on IBM Cloud.
 
 ---
 
@@ -151,21 +109,13 @@ Built and optimized an AutoAI pipeline in IBM Watson Studio — 82% improvement 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishkagoyal13&bg_color=0d1117&color=e91e8c&line=c2185b&point=e91e8c&area=true&hide_border=false&border_color=313244)
 
+[![Snake animation](https://github.com/tanishkagoyal13/tanishkagoyal13/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/tanishkagoyal13/tanishkagoyal13/blob/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
 
-## 📬 Let's Connect
-
 <div align="center">
-
-*I'm open to SWE / AI-ML internships, research collabs, and anything interesting.*
-
-[![Email](https://img.shields.io/badge/tanishkagoyal1302%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishkagoyal1302@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/tanishka--goyal--1302t-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishka-goyal-1302t/)
-[![LeetCode](https://img.shields.io/badge/tanishkagoyal13-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanishkagoyal13/)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=tanishkagoyal13&style=for-the-badge&color=c2185b&label=PROFILE+VIEWS)](https://github.com/tanishkagoyal13)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
 
