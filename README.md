@@ -8,10 +8,14 @@
 
 ---
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanishkagoyal1302@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishka-goyal-1302t/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/tanishkagoyal13/)
 [![Profile Views](https://komarev.com/ghpvc/?username=tanishkagoyal13&style=flat-square&color=c2185b&label=Profile+Views)](https://github.com/tanishkagoyal13)
+
+</div>
 
 ---
 
