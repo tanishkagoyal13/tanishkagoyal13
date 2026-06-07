@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Tanishka%20Goyal&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%C2%B7%20Backend%20%C2%B7%20Computer%20Vision&descAlignY=58&descSize=18" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=C2185B&center=true&vCenter=true&width=620&height=80&lines=Tanishka+Goyal" alt="Tanishka Goyal" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=F06292&center=true&vCenter=true&width=750&height=40&lines=AI+%2F+ML+Engineer+%C2%B7+Backend+Developer;Computer+Vision+%C2%B7+Final+Year+CSE+%40+Mody+University;Building+systems+that+scale." alt="Tagline" />
 
 </div>
 
@@ -117,6 +119,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+
+
 
 </div>
