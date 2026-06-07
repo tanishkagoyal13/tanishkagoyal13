@@ -76,23 +76,37 @@
 
 ## 🚀 Featured Projects
 
-- 🌪️ **SAFESIGHT — Disaster Damage Classification System**
+### 🌪️ SAFESIGHT — Disaster Damage Classification System
+**CNN-based satellite image classifier across 6 disaster categories**
 
-  CNN trained on **6,000+ satellite & drone images** to classify **6 disaster types** — **91% test accuracy**. Built with 12+ augmentation techniques, stratified splitting, class-weight balancing, and optimized training via EarlyStopping & LR scheduling.
+- 🎯 **91% test accuracy** on 6,000+ satellite & drone images
+- 🔧 12+ augmentation & preprocessing techniques — stratified splitting, class-weight balancing
+- ⚙️ Optimized training with EarlyStopping & LR scheduling
 
-  `Python` `TensorFlow` `OpenCV` `CNN`
+`Python` `TensorFlow` `OpenCV` `CNN`
 
-- 💸 **Salary Prediction Model**
+---
 
-  End-to-end AutoAI pipeline in IBM Watson Studio — **89% accuracy** on test data. Covered full ML lifecycle: preprocessing, feature selection, AUC/F1 evaluation, and IBM Cloud deployment.
+### 💸 Salary Prediction Model
+**End-to-end AutoAI pipeline — built & deployed on IBM Cloud**
 
-  `Python` `IBM Watson Studio` `AutoAI` `scikit-learn`
+- 🎯 **89% accuracy** on test data
+- 📊 Full ML lifecycle — preprocessing, feature selection, AUC/F1 evaluation
+- ☁️ Deployed live in the IBM Cloud environment
 
-- 🛒 **Kidzee Shopping Application**
+`Python` `IBM Watson Studio` `AutoAI` `scikit-learn`
 
-  Full-featured desktop shopping app with Java Swing UI and MySQL + JDBC backend for product and customer data management.
+---
 
-  `Java` `Java Swing` `MySQL` `JDBC`
+### 🛒 Kidzee Shopping Application
+**Full-featured desktop e-commerce app built from scratch in Java**
+
+- 🖥️ Java Swing UI — clean navigation & product browsing experience
+- 🗄️ MySQL + JDBC backend for product management & customer data
+
+`Java` `Java Swing` `MySQL` `JDBC`
+
+---
 
 ---
 
