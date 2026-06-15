@@ -79,7 +79,7 @@
 ### 🌪️ SAFESIGHT — Disaster Damage Classification System
 **CNN-based satellite image classifier across 6 disaster categories**
 
-- 🎯 **91% test accuracy** on 6,000+ satellite & drone images
+- 🎯 **89% test accuracy** on 6,000+ satellite & drone images
 - 🔧 12+ augmentation & preprocessing techniques — stratified splitting, class-weight balancing
 - ⚙️ Optimized training with EarlyStopping & LR scheduling
 
@@ -90,7 +90,7 @@
 ### 💸 Salary Prediction Model
 **End-to-end AutoAI pipeline — built & deployed on IBM Cloud**
 
-- 🎯 **89% accuracy** on test data
+- 🎯 **82% accuracy** on test data
 - 📊 Full ML lifecycle — preprocessing, feature selection, AUC/F1 evaluation
 - ☁️ Deployed live in the IBM Cloud environment
 
