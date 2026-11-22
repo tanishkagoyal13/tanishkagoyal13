@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=C2185B&center=true&vCenter=true&width=620&height=80&lines=Tanishka+Goyal" alt="Tanishka Goyal" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=F06292&center=true&vCenter=true&width=750&height=40&lines=AI+%2F+ML+Engineer+%C2%B7+Backend+Developer;Computer+Vision+%C2%B7+Final+Year+CSE+%40+Mody+University;Building+systems+that+scale." alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=F06292&center=true&vCenter=true&width=750&height=40&lines=AI+%2F+ML+Engineer+%C2%B7+Backend+Developer;Computer+Science+%C2%B7+Final+Year+CSE+%40+Mody+University;Building+systems+that+scale." alt="Tagline" />
 
 </div>
 
